@@ -32,7 +32,7 @@ Modern UI/UX development with a focus on best practices.
 ✅ Optimized websites for SEO and loading performance.
 
 📬 Connect With Me
-Email: [your-email@example.com]
+Email: [gaethmrad49@gmail.com]
 
 LinkedIn: linkedin.com/in/ghaeth-mrad
 
