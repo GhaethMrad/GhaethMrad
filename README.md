@@ -35,8 +35,6 @@ Modern UI/UX development with a focus on best practices.
 
 📬 Connect With Me
 Email: [gaethmrad49@gmail.com]
-
-LinkedIn: linkedin.com/in/ghaeth-mrad
-
+Phone Number: +963 932365733
 GitHub: github.com/GhaethMrad
 
